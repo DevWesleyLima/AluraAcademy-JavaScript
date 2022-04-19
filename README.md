@@ -11,5 +11,5 @@ Taught by:
 On Alura Academy platform!
 
 Read more:
-*¹https://cursos.alura.com.br/course/fundamentos-javascript-tipos-variaveis-funcoes
-*²https://cursos.alura.com.br/course/javascript-programando-na-linguagem-web
+* ¹https://cursos.alura.com.br/course/fundamentos-javascript-tipos-variaveis-funcoes
+* ²https://cursos.alura.com.br/course/javascript-programando-na-linguagem-web
